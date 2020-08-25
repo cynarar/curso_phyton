@@ -1,17 +1,17 @@
-Colaborador,SINPA,STIMAR,STI,SATI,SIGAI,AD,BGP,LEGIS,MULTIPLOS PROJETOS,ENGAJAMENTO PROJETOS,PONTOS
-Amanda,0,0,4,1,5,0,0,0,2,2,14
-Ana Nery,0,0,0,0,0,0,6,0,0,3,9
-Armando,0,2,12,5,0,8,0,0,3,3,33
-Cynara,0,0,0,0,0,3,7,8,3,3,24
-Daniel Gonçalves,6,0,0,0,0,13,0,0,3,3,25
-Daniel Pinheiro,0,0,1,0,0,0,1,0,1,2,5
-Elisângela,0,3,0,0,1,10,8,3,3,3,31
-Eugênio,0,6,0,0,0,2,13,7,3,3,34
-Gabriel,0,0,0,0,0,0,1,0,0,0,1
-Ivandro,0,0,0,0,0,0,7,7,2,1,17
-João Paulo,0,0,0,0,0,2,0,0,0,0,2
-Karlos,5,0,0,0,0,2,12,6,3,3,31
-Paulão,0,0,5,5,6,6,0,0,3,2,27
-Pedro,0,0,6,1,0,0,4,0,2,2,15
-Sávio,14,0,0,0,0,4,4,0,3,3,28
-Vandécio,0,9,0,0,0,13,14,9,3,3,51
+Colaborador,SINPA,STIMAR,STI,SATI,SIGAI,AD,BGP,LEGIS,MULTIPLOS PROJETOS,ENGAJAMENTO PROJETOS,PONTOS,PROMOVIDO
+Amanda,0,0,4,1,5,0,0,0,2,2,14,0
+Ana Nery,0,0,0,0,0,0,6,0,0,3,9,0
+Armando,0,2,12,5,0,8,0,0,3,3,33,1
+Cynara,0,0,0,0,0,3,7,8,3,3,24,0
+Daniel Gonçalves,6,0,0,0,0,13,0,0,3,3,25,0
+Daniel Pinheiro,0,0,1,0,0,0,1,0,1,2,5,0
+Elisângela,0,3,0,0,1,10,8,3,3,3,31,1
+Eugênio,0,6,0,0,0,2,13,7,3,3,34,1
+Gabriel,0,0,0,0,0,0,1,0,0,0,1,0
+Ivandro,0,0,0,0,0,0,7,7,2,1,17,0
+João Paulo,0,0,0,0,0,2,0,0,0,0,2,0
+Karlos,5,0,0,0,0,2,12,6,3,3,31,1
+Paulão,0,0,5,5,6,6,0,0,3,2,27,0
+Pedro,0,0,6,1,0,0,4,0,2,2,15,0
+Sávio,14,0,0,0,0,4,4,0,3,3,28,1
+Vandécio,0,9,0,0,0,13,14,9,3,3,51,1
